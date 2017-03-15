@@ -52,3 +52,6 @@
 - background-size
 - background-attachment
 - -webkit-linear-gradient
+
+# FUTURE PLAN
+- membuat lebih banyak website yang informatif, responsif, dan friendly
