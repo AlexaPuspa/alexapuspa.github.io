@@ -1,12 +1,13 @@
 # alexapuspa.github.io
 - This is my first web page. Through this web page I apply everything I have learned about html and css.
 
-#About Me
+# About Me
 - Nama saya Alexa Puspa saya berlatar belakang Planology. Saat ini saya sedang tertarik belajar programing, programing memberikan saya tantangan baru setiap saat. Dan saya bertekat dapat membuat suatu website yang bisa membantu banyak orang, serta dapat memberi dampak yang positif dalam lingkungan sekitar.
 
-#Used Tag & Syntaxes
+# Used Tag & Syntaxes
 
-- HTML
+# HTML
+
 - header
 - footer
 - section
@@ -25,7 +26,8 @@
 - option
 - div
 
-- CSS
+# CSS
+
 - color
 - font
 - font-size
